@@ -1,0 +1,8 @@
+- Make a javascript object watch the dom element as a board
+- Make postits by clicking the board
+
+-+ Make postits draggable
+- Make them editable
+- Make them the right size and shape
+- delete the postits
+5) persist postits database
