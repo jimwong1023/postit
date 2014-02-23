@@ -9,7 +9,6 @@ var Board = function( selector ) {
     })
   }
 
-
   function initialize() {
   	addClickListener()
   };
